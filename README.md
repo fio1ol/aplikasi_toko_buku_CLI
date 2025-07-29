@@ -33,6 +33,8 @@ transaksi.json akan menyimpan catatan penjualan (judul, jumlah, total)
 ## Screenshot/preview CLI
 Masukkan screenshot hasil program CLI kamu ke folder assets/, lalu lampirkan di bawah ini:
 ![contoh CLI](assets/transaksi_buku.png)
+
+di atas merupakan contoh hasil dari salah satu transaksi yang terjadi pada buku yang terjual dengan menggunakan aplikasi ini
 ## catatan tambahan
 - file 'toko_buku.jpynb' berisi logika program CLI. data yang di input pengguna akan disimpan sementara di memori, lalu dapat disimpan permanen ke dalam file 'data_buku.json'
 - program ini berjalan di lingkungan terminal/CLI seperti cmd, terminal linux, atau google colab (dengan input manual)
